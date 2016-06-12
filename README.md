@@ -1,1 +1,2 @@
-# deploy_width_field_collection-content-server-
+Два архива с сайтами на которых реализован deploy контента между сайтами (отдающий сайт - Source; принимающий - Destination)
+Базы в корне сайтов.
